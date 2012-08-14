@@ -4,7 +4,7 @@ Given: you love kittens. You <3 them sooooo much. You want pictures of kittens. 
 
 ## Usage
 
-Add kittens to your `pubspec` like so:
+Add kittens to your pubspec like so:
 
     dependencies:
       kittens:
