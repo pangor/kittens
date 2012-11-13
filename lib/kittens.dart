@@ -3,7 +3,7 @@
 // BSD-style license that can be found in the LICENSE file.
 
 /** A simple library for getting URLs to pictures of kittens. */
-#library('kittens');
+library kittens;
 
 final numKittens = 5;
 
